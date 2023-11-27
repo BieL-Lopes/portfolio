@@ -20,14 +20,10 @@ The portfolio highlights several areas of my expertise including web development
 
 ## Deployment
 
-The portfolio is deployed and can be viewed at: [your-deployment-link](#).
+The portfolio is deployed and can be viewed at: https://lofersilva.vercel.app
 
 ## Contact
 
-For any inquiries or to discuss potential projects, please reach out to me via [LinkedIn](www.linkedin.com/in/gabriel-lopes-a5a9a11a1) or at `bielopes.fsilva@gmail.com`.
+For any inquiries or to discuss potential projects, please reach out to me via [LinkedIn](https://www.linkedin.com/in/gabriel-lopes-a5a9a11a1) or at `bielopes.fsilva@gmail.com`.
 
 Thank you for visiting my portfolio!
-
-## License
-
-This project is open-source and available under the [MIT License](./LICENSE).
