@@ -8,18 +8,14 @@ import {
   html,
   css,
   reactjs,
-  redux,
   tailwind,
   nodejs,
   mongodb,
-  git,
   figma,
   docker,
   bikcraft,
-  jobit,
-  tripguide,
   python,
-  linux
+  go
 } from "../assets";
 
 export const navLinks = [
@@ -39,15 +35,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: "Web Developer",
+    title: "Sof",
     icon: web,
   },
   {
-    title: "React Native Developer",
+    title: "DevOps",
     icon: mobile,
   },
   {
-    title: "Backend Developer",
+    title: "Full Stack Developer",
     icon: backend,
   },
   {
@@ -66,10 +62,6 @@ const technologies = [
     icon: css,
   },
   {
-    name: "Linux",
-    icon: linux,
-  },
-  {
     name: "JavaScript",
     icon: javascript,
   },
@@ -80,10 +72,6 @@ const technologies = [
   {
     name: "React JS",
     icon: reactjs,
-  },
-  {
-    name: "Redux Toolkit",
-    icon: redux,
   },
   {
     name: "Tailwind CSS",
@@ -102,10 +90,6 @@ const technologies = [
     icon: python,
   },
   {
-    name: "git",
-    icon: git,
-  },
-  {
     name: "figma",
     icon: figma,
   },
@@ -113,9 +97,23 @@ const technologies = [
     name: "docker",
     icon: docker,
   },
+  {
+    name: "golang",
+    icon: go,
+  },
 ];
 
 const experiences = [
+  {
+    title: "Software Engineering",
+    company_name: "AB InBev",
+    date: "October 2023 - Today",
+    points: [
+      "Using Nest JS, K8s, implemented Alitheon artificial intelligence (AI) for image verification.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Created Complete Dashboard for better data visualization using integration with ChapGpt 4o API.",
+    ],
+  },
   {
     title: "Full Stack Developer",
     company_name: "IT TECH",
